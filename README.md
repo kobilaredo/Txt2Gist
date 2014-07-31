@@ -1,15 +1,15 @@
-Txt2Gist -  Gist Creator Service Workflow For Mac OS X
-====================================================
+Txt2Gist - GitHub Gist Creator Service Workflow For Mac OS X
+====
 
 A quick hook for Mac OS X to create a GitHub gist from highlighted text
 
-### Application Files - store in ~
+### Application Files 
 txt2gist.py: Creates a GitHub Gist from stdin
 
 .gh\_access: Containes your github login and password (one per line)
 
 
-### Mac OS X Automation Service Workflow - Double click to install
+### Mac OS X Automation Service Workflow Packages
 Txt2Gist-Private.workflow: Create a private gist
 
 Txt2Gist-Public.workflow: Create a public gist
