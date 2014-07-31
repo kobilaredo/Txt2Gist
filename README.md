@@ -20,7 +20,9 @@ Txt2Gist-Public.workflow: Create a public gist
 pip install pygithub3
 ```
 
-- Copy application file to ~/
+- Copy application files to **~/**
+
+- Uptate .gh\_access with you github login
 
 - Install services: 
     1. In Finder, double click on the workflow packages (Txt2Gist-Private and Txt2Gist-Public)
