@@ -22,7 +22,9 @@ pip install pygithub3
 
 - Copy application file to ~/
 
-- Install services: In Finder, double click on the workflow packages (Txt2Gist-Private and Txt2Gist-Public. and click Install
+- Install services: 
+    1. In Finder, double click on the workflow packages (Txt2Gist-Private and Txt2Gist-Public)
+    2. Click Install
 
 - Use it: 
 
